@@ -8,6 +8,6 @@ def fibonacci() -> Generator[int, None, None]:
 
 fib = fibonacci()
 
-for _ in range(10):
+for _ in range(11):
     print(next(fib))
 
