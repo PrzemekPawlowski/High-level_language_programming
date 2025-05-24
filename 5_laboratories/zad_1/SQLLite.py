@@ -1,4 +1,5 @@
 import sqlite3
+
 #Połączenie z istniejącą bazą danych
 conn = sqlite3.connect("sales.db")
 cursor = conn.cursor()
