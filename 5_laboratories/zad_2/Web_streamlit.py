@@ -87,6 +87,6 @@ if not df.empty:
 else:
     st.info("Brak danych do wyświetlenia wykresów.")
 
-# Uruchomienie apliakcji:
+# Uruchomienie aplikacji:
 # W terminalu w PyCharm wpisujemy:
 # streamlit run Nazwa_pliku_z_projektem.py
